@@ -1,0 +1,14 @@
+C:\Users\grafu\Desktop\CIS 122\clockTower\bin\Debug\net8.0\clockTower.exe
+C:\Users\grafu\Desktop\CIS 122\clockTower\bin\Debug\net8.0\clockTower.deps.json
+C:\Users\grafu\Desktop\CIS 122\clockTower\bin\Debug\net8.0\clockTower.runtimeconfig.json
+C:\Users\grafu\Desktop\CIS 122\clockTower\bin\Debug\net8.0\clockTower.dll
+C:\Users\grafu\Desktop\CIS 122\clockTower\bin\Debug\net8.0\clockTower.pdb
+C:\Users\grafu\Desktop\CIS 122\clockTower\obj\Debug\net8.0\clockTower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grafu\Desktop\CIS 122\clockTower\obj\Debug\net8.0\clockTower.AssemblyInfoInputs.cache
+C:\Users\grafu\Desktop\CIS 122\clockTower\obj\Debug\net8.0\clockTower.AssemblyInfo.cs
+C:\Users\grafu\Desktop\CIS 122\clockTower\obj\Debug\net8.0\clockTower.csproj.CoreCompileInputs.cache
+C:\Users\grafu\Desktop\CIS 122\clockTower\obj\Debug\net8.0\clockTower.dll
+C:\Users\grafu\Desktop\CIS 122\clockTower\obj\Debug\net8.0\refint\clockTower.dll
+C:\Users\grafu\Desktop\CIS 122\clockTower\obj\Debug\net8.0\clockTower.pdb
+C:\Users\grafu\Desktop\CIS 122\clockTower\obj\Debug\net8.0\clockTower.genruntimeconfig.cache
+C:\Users\grafu\Desktop\CIS 122\clockTower\obj\Debug\net8.0\ref\clockTower.dll
