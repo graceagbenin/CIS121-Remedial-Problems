@@ -26,9 +26,9 @@ namespace DefenseOfConsolas
             // Display deployment instructions 
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Deploy to:");
-            Console.WriteLine($"({targetRow}, {left})");    // Left
-            Console.WriteLine($"({up}, {targetColumn})");   // Up
-            Console.WriteLine($"({targetRow}, {right})");   // Right
+            Console.WriteLine($"({targetRow}, {left})");    
+            Console.WriteLine($"({up}, {targetColumn})");   
+            Console.WriteLine($"({targetRow}, {right})");   
             Console.WriteLine($"({down}, {targetColumn})");
             Console.ResetColor();
 
