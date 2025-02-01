@@ -3,11 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\grafu\\Desktop\\CIS 122\\DefenseOfConsolas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1B8C860-1CF6-459B-9A6F-24015C927C49}|DefenseOfConsolas.csproj|c:\\users\\grafu\\desktop\\cis 122\\defenseofconsolas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1B8C860-1CF6-459B-9A6F-24015C927C49}|DefenseOfConsolas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\grafu\\Desktop\\CIS 122\\DominionOfKings\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\grafu\\Desktop\\CIS 122\\CIS121-Remedial-Problems\\TriangleFarmer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,7 +13,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,28 +21,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\grafu\\Desktop\\CIS 122\\DominionOfKings\\Program.cs",
-              "RelativeDocumentMoniker": "..\\DominionOfKings\\Program.cs",
-              "ToolTip": "C:\\Users\\grafu\\Desktop\\CIS 122\\DominionOfKings\\Program.cs",
-              "RelativeToolTip": "..\\DominionOfKings\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T22:05:31.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\grafu\\Desktop\\CIS 122\\DefenseOfConsolas\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\grafu\\Desktop\\CIS 122\\DefenseOfConsolas\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAjAAAAAAAAAA==",
+              "Title": "program.cs",
+              "DocumentMoniker": "C:\\Users\\grafu\\Desktop\\CIS 122\\CIS121-Remedial-Problems\\TriangleFarmer\\program.cs",
+              "RelativeDocumentMoniker": "..\\CIS121-Remedial-Problems\\TriangleFarmer\\program.cs",
+              "ToolTip": "C:\\Users\\grafu\\Desktop\\CIS 122\\CIS121-Remedial-Problems\\TriangleFarmer\\program.cs",
+              "RelativeToolTip": "..\\CIS121-Remedial-Problems\\TriangleFarmer\\program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T20:45:29.936Z",
+              "WhenOpened": "2025-02-01T19:11:11.221Z",
               "EditorCaption": ""
             },
             {
