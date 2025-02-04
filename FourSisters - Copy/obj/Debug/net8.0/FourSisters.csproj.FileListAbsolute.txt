@@ -1,0 +1,14 @@
+C:\Users\grafu\Desktop\CIS 122\FourSisters\bin\Debug\net8.0\FourSisters.exe
+C:\Users\grafu\Desktop\CIS 122\FourSisters\bin\Debug\net8.0\FourSisters.deps.json
+C:\Users\grafu\Desktop\CIS 122\FourSisters\bin\Debug\net8.0\FourSisters.runtimeconfig.json
+C:\Users\grafu\Desktop\CIS 122\FourSisters\bin\Debug\net8.0\FourSisters.dll
+C:\Users\grafu\Desktop\CIS 122\FourSisters\bin\Debug\net8.0\FourSisters.pdb
+C:\Users\grafu\Desktop\CIS 122\FourSisters\obj\Debug\net8.0\FourSisters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grafu\Desktop\CIS 122\FourSisters\obj\Debug\net8.0\FourSisters.AssemblyInfoInputs.cache
+C:\Users\grafu\Desktop\CIS 122\FourSisters\obj\Debug\net8.0\FourSisters.AssemblyInfo.cs
+C:\Users\grafu\Desktop\CIS 122\FourSisters\obj\Debug\net8.0\FourSisters.csproj.CoreCompileInputs.cache
+C:\Users\grafu\Desktop\CIS 122\FourSisters\obj\Debug\net8.0\FourSisters.dll
+C:\Users\grafu\Desktop\CIS 122\FourSisters\obj\Debug\net8.0\refint\FourSisters.dll
+C:\Users\grafu\Desktop\CIS 122\FourSisters\obj\Debug\net8.0\FourSisters.pdb
+C:\Users\grafu\Desktop\CIS 122\FourSisters\obj\Debug\net8.0\FourSisters.genruntimeconfig.cache
+C:\Users\grafu\Desktop\CIS 122\FourSisters\obj\Debug\net8.0\ref\FourSisters.dll

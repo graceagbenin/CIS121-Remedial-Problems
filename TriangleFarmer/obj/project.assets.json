@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grafu\\Desktop\\CIS 122\\TriangleFarmer\\TriangleFarmer.csproj",
+      "projectUniqueName": "C:\\Users\\grafu\\Desktop\\CIS 122\\CIS121-Remedial-Problems\\TriangleFarmer\\TriangleFarmer.csproj",
       "projectName": "TriangleFarmer",
-      "projectPath": "C:\\Users\\grafu\\Desktop\\CIS 122\\TriangleFarmer\\TriangleFarmer.csproj",
+      "projectPath": "C:\\Users\\grafu\\Desktop\\CIS 122\\CIS121-Remedial-Problems\\TriangleFarmer\\TriangleFarmer.csproj",
       "packagesPath": "C:\\Users\\grafu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grafu\\Desktop\\CIS 122\\TriangleFarmer\\obj\\",
+      "outputPath": "C:\\Users\\grafu\\Desktop\\CIS 122\\CIS121-Remedial-Problems\\TriangleFarmer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,6 +14,8 @@ namespace TriangleFarmer
             Console.Write("Enter Triangle Height:");
             double height = Convert.ToDouble(Console.ReadLine());
 
+            // calculate area of triangle 
+
             double areaOfTriangle = (side1 * height) / 2.0;
 
 
