@@ -1,0 +1,14 @@
+C:\Users\grafu\Desktop\CIS 122\Watchtower\obj\Debug\net8.0\Watchtower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grafu\Desktop\CIS 122\Watchtower\obj\Debug\net8.0\Watchtower.AssemblyInfoInputs.cache
+C:\Users\grafu\Desktop\CIS 122\Watchtower\obj\Debug\net8.0\Watchtower.AssemblyInfo.cs
+C:\Users\grafu\Desktop\CIS 122\Watchtower\obj\Debug\net8.0\Watchtower.csproj.CoreCompileInputs.cache
+C:\Users\grafu\Desktop\CIS 122\Watchtower\bin\Debug\net8.0\Watchtower.exe
+C:\Users\grafu\Desktop\CIS 122\Watchtower\bin\Debug\net8.0\Watchtower.deps.json
+C:\Users\grafu\Desktop\CIS 122\Watchtower\bin\Debug\net8.0\Watchtower.runtimeconfig.json
+C:\Users\grafu\Desktop\CIS 122\Watchtower\bin\Debug\net8.0\Watchtower.dll
+C:\Users\grafu\Desktop\CIS 122\Watchtower\bin\Debug\net8.0\Watchtower.pdb
+C:\Users\grafu\Desktop\CIS 122\Watchtower\obj\Debug\net8.0\Watchtower.dll
+C:\Users\grafu\Desktop\CIS 122\Watchtower\obj\Debug\net8.0\refint\Watchtower.dll
+C:\Users\grafu\Desktop\CIS 122\Watchtower\obj\Debug\net8.0\Watchtower.pdb
+C:\Users\grafu\Desktop\CIS 122\Watchtower\obj\Debug\net8.0\Watchtower.genruntimeconfig.cache
+C:\Users\grafu\Desktop\CIS 122\Watchtower\obj\Debug\net8.0\ref\Watchtower.dll
