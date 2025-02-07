@@ -1,0 +1,14 @@
+C:\Users\grafu\Desktop\CIS 122\Replicator\bin\Debug\net8.0\Replicator.exe
+C:\Users\grafu\Desktop\CIS 122\Replicator\bin\Debug\net8.0\Replicator.deps.json
+C:\Users\grafu\Desktop\CIS 122\Replicator\bin\Debug\net8.0\Replicator.runtimeconfig.json
+C:\Users\grafu\Desktop\CIS 122\Replicator\bin\Debug\net8.0\Replicator.dll
+C:\Users\grafu\Desktop\CIS 122\Replicator\bin\Debug\net8.0\Replicator.pdb
+C:\Users\grafu\Desktop\CIS 122\Replicator\obj\Debug\net8.0\Replicator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grafu\Desktop\CIS 122\Replicator\obj\Debug\net8.0\Replicator.AssemblyInfoInputs.cache
+C:\Users\grafu\Desktop\CIS 122\Replicator\obj\Debug\net8.0\Replicator.AssemblyInfo.cs
+C:\Users\grafu\Desktop\CIS 122\Replicator\obj\Debug\net8.0\Replicator.csproj.CoreCompileInputs.cache
+C:\Users\grafu\Desktop\CIS 122\Replicator\obj\Debug\net8.0\Replicator.dll
+C:\Users\grafu\Desktop\CIS 122\Replicator\obj\Debug\net8.0\refint\Replicator.dll
+C:\Users\grafu\Desktop\CIS 122\Replicator\obj\Debug\net8.0\Replicator.pdb
+C:\Users\grafu\Desktop\CIS 122\Replicator\obj\Debug\net8.0\Replicator.genruntimeconfig.cache
+C:\Users\grafu\Desktop\CIS 122\Replicator\obj\Debug\net8.0\ref\Replicator.dll
