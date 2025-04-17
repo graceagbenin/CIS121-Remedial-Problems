@@ -1,0 +1,5 @@
+C:\Users\grafu\Desktop\CIS 122\CIS121-Remedial-Problems\LeetCodeSolutions\obj\Debug\net8.0\LeetCodeSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grafu\Desktop\CIS 122\CIS121-Remedial-Problems\LeetCodeSolutions\obj\Debug\net8.0\LeetCodeSolutions.AssemblyInfoInputs.cache
+C:\Users\grafu\Desktop\CIS 122\CIS121-Remedial-Problems\LeetCodeSolutions\obj\Debug\net8.0\LeetCodeSolutions.AssemblyInfo.cs
+C:\Users\grafu\Desktop\CIS 122\CIS121-Remedial-Problems\LeetCodeSolutions\obj\Debug\net8.0\LeetCodeSolutions.csproj.CoreCompileInputs.cache
+C:\Users\grafu\Desktop\CIS 122\CIS121-Remedial-Problems\LeetCodeSolutions\obj\Debug\net8.0\LeetCodeSolutions.sourcelink.json
