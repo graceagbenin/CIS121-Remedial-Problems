@@ -1,32 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\grafu\\Desktop\\CIS 122\\CIS121-Remedial-Problems\\LeetCodeSolutions\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{80E1E78B-CCCA-4E0C-9510-972E7680BED9}|LeetCodeSolutions.csproj|c:\\users\\grafu\\desktop\\cis 122\\cis121-remedial-problems\\leetcodesolutions\\validparenthesis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80E1E78B-CCCA-4E0C-9510-972E7680BED9}|LeetCodeSolutions.csproj|solutionrelative:validparenthesis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80E1E78B-CCCA-4E0C-9510-972E7680BED9}|LeetCodeSolutions.csproj|c:\\users\\grafu\\desktop\\cis 122\\cis121-remedial-problems\\leetcodesolutions\\uniquechar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80E1E78B-CCCA-4E0C-9510-972E7680BED9}|LeetCodeSolutions.csproj|solutionrelative:uniquechar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80E1E78B-CCCA-4E0C-9510-972E7680BED9}|LeetCodeSolutions.csproj|c:\\users\\grafu\\desktop\\cis 122\\cis121-remedial-problems\\leetcodesolutions\\numsegment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80E1E78B-CCCA-4E0C-9510-972E7680BED9}|LeetCodeSolutions.csproj|solutionrelative:numsegment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80E1E78B-CCCA-4E0C-9510-972E7680BED9}|LeetCodeSolutions.csproj|c:\\users\\grafu\\desktop\\cis 122\\cis121-remedial-problems\\leetcodesolutions\\mergealternate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80E1E78B-CCCA-4E0C-9510-972E7680BED9}|LeetCodeSolutions.csproj|solutionrelative:mergealternate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80E1E78B-CCCA-4E0C-9510-972E7680BED9}|LeetCodeSolutions.csproj|c:\\users\\grafu\\desktop\\cis 122\\cis121-remedial-problems\\leetcodesolutions\\finddiff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80E1E78B-CCCA-4E0C-9510-972E7680BED9}|LeetCodeSolutions.csproj|solutionrelative:finddiff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80E1E78B-CCCA-4E0C-9510-972E7680BED9}|LeetCodeSolutions.csproj|c:\\users\\grafu\\desktop\\cis 122\\cis121-remedial-problems\\leetcodesolutions\\robotreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80E1E78B-CCCA-4E0C-9510-972E7680BED9}|LeetCodeSolutions.csproj|solutionrelative:robotreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -34,86 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ValidParenthesis.cs",
-              "DocumentMoniker": "C:\\Users\\grafu\\Desktop\\CIS 122\\CIS121-Remedial-Problems\\LeetCodeSolutions\\ValidParenthesis.cs",
-              "RelativeDocumentMoniker": "ValidParenthesis.cs",
-              "ToolTip": "C:\\Users\\grafu\\Desktop\\CIS 122\\CIS121-Remedial-Problems\\LeetCodeSolutions\\ValidParenthesis.cs",
-              "RelativeToolTip": "ValidParenthesis.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T23:44:06.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FindDiff.cs",
-              "DocumentMoniker": "C:\\Users\\grafu\\Desktop\\CIS 122\\CIS121-Remedial-Problems\\LeetCodeSolutions\\FindDiff.cs",
-              "RelativeDocumentMoniker": "FindDiff.cs",
-              "ToolTip": "C:\\Users\\grafu\\Desktop\\CIS 122\\CIS121-Remedial-Problems\\LeetCodeSolutions\\FindDiff.cs",
-              "RelativeToolTip": "FindDiff.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T23:04:44.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RobotReturn.cs",
-              "DocumentMoniker": "C:\\Users\\grafu\\Desktop\\CIS 122\\CIS121-Remedial-Problems\\LeetCodeSolutions\\RobotReturn.cs",
-              "RelativeDocumentMoniker": "RobotReturn.cs",
-              "ToolTip": "C:\\Users\\grafu\\Desktop\\CIS 122\\CIS121-Remedial-Problems\\LeetCodeSolutions\\RobotReturn.cs",
-              "RelativeToolTip": "RobotReturn.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T23:04:12.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NumSegment.cs",
-              "DocumentMoniker": "C:\\Users\\grafu\\Desktop\\CIS 122\\CIS121-Remedial-Problems\\LeetCodeSolutions\\NumSegment.cs",
-              "RelativeDocumentMoniker": "NumSegment.cs",
-              "ToolTip": "C:\\Users\\grafu\\Desktop\\CIS 122\\CIS121-Remedial-Problems\\LeetCodeSolutions\\NumSegment.cs",
-              "RelativeToolTip": "NumSegment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T22:51:38.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UniqueChar.cs",
-              "DocumentMoniker": "C:\\Users\\grafu\\Desktop\\CIS 122\\CIS121-Remedial-Problems\\LeetCodeSolutions\\UniqueChar.cs",
-              "RelativeDocumentMoniker": "UniqueChar.cs",
-              "ToolTip": "C:\\Users\\grafu\\Desktop\\CIS 122\\CIS121-Remedial-Problems\\LeetCodeSolutions\\UniqueChar.cs",
-              "RelativeToolTip": "UniqueChar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T22:42:18.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MergeAlternate.cs",
-              "DocumentMoniker": "C:\\Users\\grafu\\Desktop\\CIS 122\\CIS121-Remedial-Problems\\LeetCodeSolutions\\MergeAlternate.cs",
-              "RelativeDocumentMoniker": "MergeAlternate.cs",
-              "ToolTip": "C:\\Users\\grafu\\Desktop\\CIS 122\\CIS121-Remedial-Problems\\LeetCodeSolutions\\MergeAlternate.cs",
-              "RelativeToolTip": "MergeAlternate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T22:38:29.343Z"
             }
           ]
         }
